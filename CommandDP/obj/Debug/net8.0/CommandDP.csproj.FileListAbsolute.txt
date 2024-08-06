@@ -1,0 +1,14 @@
+C:\Users\sarojkumar.panda\source\repos\CommandDP\CommandDP\bin\Debug\net8.0\CommandDP.exe
+C:\Users\sarojkumar.panda\source\repos\CommandDP\CommandDP\bin\Debug\net8.0\CommandDP.deps.json
+C:\Users\sarojkumar.panda\source\repos\CommandDP\CommandDP\bin\Debug\net8.0\CommandDP.runtimeconfig.json
+C:\Users\sarojkumar.panda\source\repos\CommandDP\CommandDP\bin\Debug\net8.0\CommandDP.dll
+C:\Users\sarojkumar.panda\source\repos\CommandDP\CommandDP\bin\Debug\net8.0\CommandDP.pdb
+C:\Users\sarojkumar.panda\source\repos\CommandDP\CommandDP\obj\Debug\net8.0\CommandDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarojkumar.panda\source\repos\CommandDP\CommandDP\obj\Debug\net8.0\CommandDP.AssemblyInfoInputs.cache
+C:\Users\sarojkumar.panda\source\repos\CommandDP\CommandDP\obj\Debug\net8.0\CommandDP.AssemblyInfo.cs
+C:\Users\sarojkumar.panda\source\repos\CommandDP\CommandDP\obj\Debug\net8.0\CommandDP.csproj.CoreCompileInputs.cache
+C:\Users\sarojkumar.panda\source\repos\CommandDP\CommandDP\obj\Debug\net8.0\CommandDP.dll
+C:\Users\sarojkumar.panda\source\repos\CommandDP\CommandDP\obj\Debug\net8.0\refint\CommandDP.dll
+C:\Users\sarojkumar.panda\source\repos\CommandDP\CommandDP\obj\Debug\net8.0\CommandDP.pdb
+C:\Users\sarojkumar.panda\source\repos\CommandDP\CommandDP\obj\Debug\net8.0\CommandDP.genruntimeconfig.cache
+C:\Users\sarojkumar.panda\source\repos\CommandDP\CommandDP\obj\Debug\net8.0\ref\CommandDP.dll
